@@ -1,4 +1,4 @@
-# PowerBI-dashboard
+# COVID-19 Dataset Analysis PowerBI-dashboard
 **COVID-19 Dataset Analysis Dashboard**
 **Overview**
 This PowerBI dashboard offers an in-depth analysis of the COVID-19 pandemic, presenting data on cases, deaths, and other critical metrics across continents and countries. It’s designed to provide clear visual insights into the spread and impact of the virus.
